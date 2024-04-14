@@ -9,7 +9,7 @@ cligj==0.4.0
 cycler==0.10.0
 Flask==1.0.2
 geojson==2.4.0
-idna==2.6
+idna==3.7
 itsdangerous==0.24
 Jinja2==2.10
 kiwisolver==1.0.1
