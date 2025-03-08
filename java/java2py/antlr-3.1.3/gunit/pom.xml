@@ -101,7 +101,7 @@
         <dependency>
             <groupId>org.antlr</groupId>
             <artifactId>stringtemplate</artifactId>
-            <version>3.2</version>
+            <version>3.2.1</version>
             <scope>compile</scope>
         </dependency>
 
@@ -119,7 +119,7 @@
                 <groupId>org.antlr</groupId>
                 <artifactId>antlr3-maven-plugin</artifactId>
                 <version>${project.version}</version>
-                <configuration></configuration>
+                <configuration/>
                 <executions>
                     <execution>
                         <goals>
